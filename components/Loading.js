@@ -13,9 +13,9 @@ function Loading() {
         />
       </div>
 
-      <div className="w-full h-screen">
+      <div className="w-full h-screen shadow-2xl">
         <Image
-          src="https://i.postimg.cc/28kfK4mb/borderlands.jpg"
+          src="https://i.postimg.cc/hvPH4JnP/lounge.gif"
           layout="fill"
           objectFit="cover"
           alt="bgImage"

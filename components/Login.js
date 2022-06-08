@@ -17,15 +17,15 @@ function Login() {
 
         <button
           onClick={authenticate}
-          className="bg-[#FD6815] rounded-lg p-5 font-bold animate-pulse "
+          className="bg-black/70 uppercase rounded-lg p-5 font-bold animate-pulse "
         >
-          Welcome to the Borderlands
+          Welcome to the Lounge
         </button>
       </div>
 
-      <div className="w-full h-screen">
+      <div className="w-full h-screen shadow-2xl">
         <Image
-          src="https://i.postimg.cc/28kfK4mb/borderlands.jpg"
+          src="https://i.postimg.cc/hvPH4JnP/lounge.gif"
           layout="fill"
           objectFit="cover"
           alt="bgImage"
